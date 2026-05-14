@@ -1,0 +1,3 @@
+1000
+meal breakfast -50
+meal sanwhich -20
